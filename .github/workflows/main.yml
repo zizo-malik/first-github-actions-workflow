@@ -1,0 +1,14 @@
+name: Zahra Malik
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+
+steps:
+  - name: Greetings
+      echo: "Hey from Zahra"
+      
