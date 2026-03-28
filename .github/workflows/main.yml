@@ -10,5 +10,5 @@ jobs:
 
 steps:
   - name: Greetings
-      echo: "Hey from Zahra"
+     run: echo "Hey from Zahra"
       
