@@ -8,7 +8,7 @@ jobs:
   demo:
     runs-on: ubuntu-latest
 
-steps:
-  - name: Greetings
-     run: echo "Hey from Zahra"
+    steps:
+      - name: Greetings
+        run: echo "Hey from Zahra"
       
